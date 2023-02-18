@@ -2,7 +2,7 @@
 layout: post
 title: "Web 在继续离我们远去"
 subtitle: "After the release of Wechat Mini-Program"
-author: "Hux"
+author: "Yufan Deng"
 header-img: "img/post-bg-web.jpg"
 header-mask: 0.4
 tags:
@@ -10,7 +10,7 @@ tags:
   - 微信
 ---
 
-> 本文首发于我的知乎专栏 [The Little Programmer](https://zhuanlan.zhihu.com/p/22561084)，转载请保留链接 ;)
+> 本文首发于知乎专栏 [The Little Programmer](https://zhuanlan.zhihu.com/p/22561084)，转载请保留链接 ;)
 
 今天微信又刷爆了我的朋友圈 —— 小程序，之前传说的应用号。
 

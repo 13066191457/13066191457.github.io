@@ -2,8 +2,8 @@
 layout:     post
 title:      "JavaScript Module Loader"
 subtitle:   "CommonJS，RequireJS，SeaJS 归纳笔记"
-date:       2015-05-25
-author:     "Hux"
+date:       2022-05-25
+author:     "Yufan Deng"
 header-img: "img/post-bg-js-module.jpg"
 catalog: true
 published: false

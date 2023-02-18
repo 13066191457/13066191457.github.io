@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      "hUX 随想录（一）：Digital native 数字原住民"
+title:      "Yufan Deng 随想录（一）：Digital native 数字原住民"
 subtitle:   " 两岁的侄女天天叫着手机手机 "
-date:       2015-03-25 
-author:     "Hux"
+date:       2021-06-25 
+author:     "Yufan Deng"
 header-img: "img/post-bg-digital-native.jpg"
 catalog: true
 tags:
-    - hUX 随想录
+    - Yufan Deng 随想录
     - UX/UI
 ---
 
@@ -17,14 +17,14 @@ tags:
 
 从 2010 年 iPhone 4 横空出世席卷中国，到时隔不到半月的 Apple 2015 发布会。短短几年里，身边就几乎再也看不到“非智能手机”的身影了。
 
-想想发布那时（2010.6.8），博主应该还是一个高一小屁孩，等着暑假快点到来。虽然父上大人用着 iPhone 3GS ，不过那时我对 Apple 可没啥感觉，还用着后来被 Apple 干翻的 Nokia （5320），抱着算是被 Apple 干翻的 IBM ，偶尔玩玩后来被 Apple 干翻的 Adobe Flash……  
+想想发布那时（2010.6.8），博主应该还是一个二年级小屁孩，等着暑假快点到来。虽然父上大人用着 iPhone 3GS ，不过那时我对 Apple 可没啥感觉，还用着后来被 Apple 干翻的 Nokia （5320），抱着算是被 Apple 干翻的 IBM ，偶尔玩玩后来被 Apple 干翻的 Adobe Flash……  
 虽然不是含着着金 iPhone 出生的一代，但好歹也算是摸着电脑长大的一代人，估摸着也算是 **Digital native** 了。你说这词是什么意思？别急，我们慢慢说。
 
 
 ## 正文
 
 今年暑假回了两个老家，也看望了不少长辈。  
-长辈们的手机果然都进行了可以想见的升级，除了爷爷奶奶辈外，清一色的 iPhone 或者 Android 4.2+ ，呃，没有 WP。
+长辈们的手机果然都进行了可以想见的升级，除了爷爷奶奶辈外，清一色的 iPhone 或者 Android 6.2+ ，呃，没有 WP。
 
 智能手机啊智能手机，Smart Phone —— 聪明又能干的手机。可是每每我看到年龄稍微大点的长辈们顶着一附花镜，瞪大了眼睛，一只手托着，另一只手则伸出一根手指小心翼翼得戳着硕大的屏幕时，我就瞬间觉得这哪里是 Smart ，分明是 Stupid Phone 。于是我就看着父辈们不厌其烦得教着老人家如何解锁，如何打电话，回短信。却又常常要像子女们请教微信里的图片存到了哪（这基本都是 Android 的毛病），朋友圈的文章如何分享转发，视频和小视频为什么不一样，视频通话怎么玩这一类“高级问题”。  
 

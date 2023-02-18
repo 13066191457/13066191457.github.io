@@ -2,7 +2,7 @@
 layout: post
 title: "如何客观地评价「小程序」的体验?"
 subtitle: "Wechat Mini-Program vs. the Web, a UX comparison"
-author: "Hux"
+author: "Yufan Deng"
 header-img: ""
 header-bg-css: "linear-gradient(to right, #24b94a, #38ef7d);"
 tags:
@@ -11,7 +11,7 @@ tags:
   - UX/UI
 ---
 
-> 本文首发于我的知乎专栏 [The Little Programmer](https://zhuanlan.zhihu.com/p/24782839)，转载请保留链接 ;)
+> 本文首发于知乎专栏 [The Little Programmer](https://zhuanlan.zhihu.com/p/24782839)，转载请保留链接 ;)
 
 2017 年 1 月 9 号凌晨，看完《星战》回家，发现朋友圈都炸了……原来是「小程序」如约公测（以下简称小程序）。果然贵圈人都睡得晚啊，一个个大半夜了精神得不行。
 

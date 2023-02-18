@@ -2,7 +2,7 @@
 layout: post
 title: "React Hooks 是否可以改为用类似 Vue 3 Composition API 的方式实现？"
 subtitle: "Thinking in React vs. Thinking in Vue"
-author: "Hux"
+author: "Yufan Deng"
 header-style: text
 tags:
   - 知乎

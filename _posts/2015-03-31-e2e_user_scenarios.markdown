@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "Definition of End to End User Scenarios"
-date:       2015-03-31
-author:     "Hux"
+date:       2022-03-31
+author:     "Yufan Deng"
 header-img: "img/post-bg-e2e-ux.jpg"
 published: false
 lang: en

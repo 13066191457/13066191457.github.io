@@ -2,7 +2,7 @@
 layout: post
 title: "为什么 CSS 这么难学？"
 subtitle: "Why I dislike CSS as a programming language"
-author: "Hux"
+author: "Yufan Deng"
 header-img: "img/post-bg-css.jpg"
 header-img-credit: "@WebdesignerDepot"
 header-img-credit-href: "medium.com/@WebdesignerDepot/poll-should-css-become-more-like-a-programming-language-c74eb26a4270"
@@ -13,7 +13,7 @@ tags:
   - 知乎
 ---
 
-> 这篇文章转载自[我在知乎上的回答](https://www.zhihu.com/question/66167982/answer/240434582)
+> 这篇文章转载自[知乎上的回答](https://www.zhihu.com/question/66167982/answer/240434582)
 
 对我来说，CSS 难学以及烦人是因为它**「出乎我意料之外的复杂」**且让我觉得**「定位矛盾」**。
 

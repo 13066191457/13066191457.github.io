@@ -1,4 +1,4 @@
-Hey, I am Deng, Yufan (a.k.a. _@Yufan Deng_). I worked on the [React Team](https://beta.reactjs.org/community/meet-the-team#react-core) at <del>Facebook</del>Meta.
+Hey, I am Deng, Yufan (a.k.a. _@Yufan Deng_). I worked on the [GZMU](https://https://www.gzhmu.edu.cn) at <del>粤华</del>厂医.
 
 I considered myself as a hybrid between a software engineer specifically into the programming languages theories and implementations domain (i.e. compiler, type system, type-based formal verification, virtual machine, runtime systems, garbage collection), and a creative technologiest deeply caring about many humanistic aspects (e.g. visual, sound, interaction) in UI and HCI in general.
 

@@ -1,7 +1,7 @@
 
 
 
-> 本文首发于 [CSDN](http://geek.csdn.net/news/detail/210535) 与《程序员》2017 年 7 月刊，同步发布于 [饿了么前端 - 知乎专栏](https://zhuanlan.zhihu.com/ElemeFE)、[Hux Blog](https://huangxuan.me)，转载请保留链接。
+> 本文首发于 [CSDN](http://geek.csdn.net/news/detail/210535) 与《程序员》2017 年 7 月刊，同步发布于 [饿了么前端 - 知乎专栏](https://zhuanlan.zhihu.com/ElemeFE)、[Yufan Deng Blog](https://13066191457.github.io)，转载请保留链接。
 
 
 自 Vue.js 官方推特第一次[公开][1]到现在，我们就一直在进行着将[饿了么移动端网站](https://h5.ele.me/msite/#pwa=true)升级为 [Progressive Web App][2] 的工作。直到近日在 Google I/O 2017 上[登台亮相](https://m.weibo.cn/status/4109332495285652)，才终于算告一段落。我们非常荣幸能够发布全世界第一个专门面向国内用户的 PWA，但更荣幸的是能与 Google、UC 以及腾讯合作，一起推动国内 web 与浏览器生态的发展。

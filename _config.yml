@@ -99,4 +99,12 @@ friends:
     { title: "VPN", href: "http://54.176.81.246:54321" },
     { title: "动漫观看地址1", href: "http://ktkkt.top" },
     { title: "动漫观看地址2", href: "https://www.mandao.tv" },
+    { title: "AI绘画", href: "https://lexica.art" },
+    { title: "虚拟手机卡", href: "https://quackr.io" },
+    { title: "WiKi", href: "https://www.wikipedia.org" },
+    { title: "OpenAI", href: "https://chat.openai.com/chat" },
+    { title: "万方", href: "https://www.wanfangdata.com.cn/index.html" },
+    { title: "中国知网", href: "https://www.cnki.net" },
+    { title: "阿里云", href: "https://www.aliyun.com/product/oss" },
+   
   ]

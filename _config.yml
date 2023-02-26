@@ -110,6 +110,6 @@ friends:
     { title: "电视剧1", href: "https://guazitv.tv" },
     { title: "电视剧2", href: "https://www.duboku.tv" },
     { title: "Windows VPN下载", href: "https://qingyun.filebases.com/assets/Clash.for.Windows-0.20.16-win.7z" },
-    { title: "Android VPN下载", href: "https://www.duboku.tv" },
-    { title: "Mac OS VPN下载", href: "https://www.duboku.tv" },
+    { title: "Android VPN下载", href: "https://qingyun.filebases.com/assets/Clash.for.Windows-0.20.16-win.7z" },
+    { title: "Mac OS VPN下载", href: "https://qingyun.filebases.com/assets/Clash.for.Windows-0.20.16-win.7z" },
   ]

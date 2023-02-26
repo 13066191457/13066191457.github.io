@@ -2,7 +2,7 @@
 title: "「SF-LC」14 ImpCEvalFun"
 subtitle: "Logical Foundations - An Evaluation Function For Imp"
 layout: post
-author: "Hux"
+author: "Yufan Deng"
 header-style: text
 hidden: true
 tags:
@@ -87,7 +87,7 @@ The critical part of proof:
       - `destruct (ceval_step ...)` for the `option`
         1. `None` case contradiction
         2. `Some` case, use induction hypothesis...
-    
+  
 
 ### <-
 

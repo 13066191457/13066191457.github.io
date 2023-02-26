@@ -2,7 +2,7 @@
 title: "「SF-PLF」8 StlcProp"
 subtitle: "Programming Language Foundations - Properties of STLC"
 layout: post
-author: "Hux"
+author: "Yufan Deng"
 header-style: text
 hidden: true
 tags:
@@ -73,7 +73,7 @@ _substitution lemma_
   - induction on term; prove it type-preserving after a substitution
   - 替换会将 bound var 加入 Context，所以我们需要证明 free var 对于新的 Context 仍然是 type-preserving...
     - 这里我们需要 the formal definition of _free var_ as well.
-_context invariance_
+    _context invariance_
   - exchange  : 交换顺序显然无影响
   - weakening : 如果不是 override 的话，添加新变量显然对于之前的 well-typeness 无影响
 
@@ -184,10 +184,10 @@ Theorem not_subject_expansion:
 ```
 
     (app (abs x (Arrow Bool Bool) tru) tru)  -- 考虑 term 
-
+    
     (λx:Bool->Bool . tru) tru   -->   tru    -- 可以 step
                         empty   |-   Bool    -- step 后 well-typed
-
+    
     empty |-/-  (λx:Bool->Bool . tru) tru    -- 但是原 term 显然 ill-typed
 
 
@@ -251,5 +251,4 @@ Inductive tm : Type :=
 ```
 
 更多拓展见下一章 `MoreStlc.v` 
-
 

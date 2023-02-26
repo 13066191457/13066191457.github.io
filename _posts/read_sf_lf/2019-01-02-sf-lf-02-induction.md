@@ -2,7 +2,7 @@
 title: "「SF-LC」2 Induction"
 subtitle: "Logical Foundations - Proof by Induction"
 layout: post
-author: "Hux"
+author: "Yufan Deng"
 header-style: text
 hidden: true
 tags:
@@ -132,7 +132,6 @@ Noticed that the definition of `minus`:
 ---------
 
 `rewrite` would do a (DFS) preorder traversal in the syntax tree.
-
 
 
 

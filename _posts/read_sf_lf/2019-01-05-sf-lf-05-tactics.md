@@ -2,7 +2,7 @@
 title: "「SF-LC」5 Tactics"
 subtitle: "Logical Foundations - More Basic Tactics"
 layout: post
-author: "Hux"
+author: "Yufan Deng"
 header-style: text
 hidden: true
 tags:
@@ -83,18 +83,18 @@ Qed.
                     x       ↦      f(x)
                   input     ↦     output
                 argument    ↦     value
-
+    
                     X       ↦       Y
                  domain 域  ↦  co-domain 陪域      
            what can go into ↦  what possibly come out
-
+    
                   A ⊆ X     ↦  f(A) = {f(x) | x ∈ A}
                             ↦     image
                             ↦  what actually come out
-
+    
     f⁻¹(B)={x ∈ X|f(x) ∈ B} ↦     B ⊆ Y
                  preimage   ↦
-
+    
                 when A = X  ↦       Y
                             ↦     range  
                                image of domain
@@ -347,5 +347,4 @@ what is this really saying...
 One way: good old paper and pencil
 
 5 mins is good time!
-
 

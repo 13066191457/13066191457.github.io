@@ -2,7 +2,7 @@
 title: "「SF-LC」7 Ind Prop"
 subtitle: "Logical Foundations - Inductively Defined Propositions (归纳定义命题)"
 layout: post
-author: "Hux"
+author: "Yufan Deng"
 header-style: text
 hidden: true
 tags:
@@ -110,7 +110,7 @@ we have two ways to construct the `even` type (`Prop <: Type`), either or:
 2. `ev_SS` takes a `nat` `n` and a `H` typed `even n`, 
   - the _dependency_ between two arguments thus established! 
   - as long as the _constraint on same `n`_ is fullfilled, we can build type `even` with `S (S n)`
-  
+
 The take way is that _dependent type (Pi-type)_ allow us to constriant constructors with different values.
 
 > _indexed_ way is more general. it formed a larger type, and is only used when extra power needed. 
@@ -628,7 +628,7 @@ Now we can impl `derive` by follwing `2`, the property.
 In paper we have:
 
     ∂ₐ(r · s) = ∂ₐr · s + ν(r) · ∂ₐs       -- subscriprt "a" meaning "respective to a" 
-
+    
     where 
       ν(r) = nullable(r) ? ε : ∅ 
 

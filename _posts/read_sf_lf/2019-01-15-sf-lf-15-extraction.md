@@ -2,7 +2,7 @@
 title: "「SF-LC」15 Extraction"
 subtitle: "Logical Foundations - Extracting ML From Coq"
 layout: post
-author: "Hux"
+author: "Yufan Deng"
 header-style: text
 hidden: true
 tags:
@@ -132,9 +132,9 @@ e ::=
 
      L(x) => e1     ===   λx.e1
      R(x) => e2     ===   λx.e2 
-
+    
      case v e1|e2   ===   (λx.e1|e2) v      -- `e1` or `e2` depends on the _tag_ wrapped on `v`
-   
+
 这个角度也解释了 Haskell/SML 在申明函数时直接对参数写 pattern match 的理论合理性.
 
 根据经验几乎所有的 _binding_ 都可以被 desugar 成函数（即 lambda expression).
@@ -148,7 +148,6 @@ fun zero succ                (* partial application  *)
        then zero ()          (* 0   case =>  (λx.e1) v *)
        else succ (n-1)       (* S n case =>  (λx.e2) v *)
 ```
-
 
 
 

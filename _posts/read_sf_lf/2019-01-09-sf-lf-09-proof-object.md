@@ -2,7 +2,7 @@
 title: "「SF-LC」9 ProofObjects"
 subtitle: "Logical Foundations - The Curry-Howard Correspondence "
 layout: post
-author: "Hux"
+author: "Yufan Deng"
 header-style: text
 hidden: true
 tags:
@@ -106,8 +106,8 @@ In Coq's _computational universe_ (where data structures and programs live), to 
 in Coq's _logical universe_ (where we carry out proofs), to give implication:
 - constructors
 - functions!
- 
- 
+
+
 So instead of writing proof scripts e.g._
 
 ```coq

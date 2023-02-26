@@ -2,7 +2,7 @@
 title: "「SF-PLF」5 Smallstep"
 subtitle: "Programming Language Foundations - Small-Step Operational Semantics"
 layout: post
-author: "Hux"
+author: "Yufan Deng"
 header-style: text
 hidden: true
 tags:
@@ -65,19 +65,19 @@ Inductive tm : Type :=
   | C : nat → tm (* Constant *)
   | P : tm → tm → tm. (* Plus *)
 ```
-  
+
 ### Big-Step
 
 `==>` is really `⇓`
-  
+
                 ---------        (E_Const)
                 C n ==> n
-
+    
                 t1 ==> n1
                 t2 ==> n2
             -------------------  (E_Plus)
             P t1 t2 ==> n1 + n2
-  
+
 
 ### Small-Step
 
@@ -86,11 +86,11 @@ Inductive tm : Type :=
 
       -------------------------------   (ST_PlusConstConst)
       P (C n1) (C n2) --> C (n1 + n2)
-
+    
               t1 --> t1'
           --------------------          (ST_Plus1)
           P t1 t2 --> P t1' t2
-
+    
               t2 --> t2'
       ----------------------------      (ST_Plus2)
       P (C n1) t2 --> P (C n1) t2'

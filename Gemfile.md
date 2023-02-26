@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'https://13066191457.github.io'
 gem 'jekyll-paginate'
 
 gem "jekyll", "~> 4.0"

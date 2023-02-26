@@ -2,7 +2,7 @@
 title: "「SF-PLF」12 Records"
 subtitle: "Programming Language Foundations - Adding Records To STLC"
 layout: post
-author: "Hux"
+author: "Yufan Deng"
 header-style: text
 hidden: true
 tags:

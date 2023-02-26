@@ -2,7 +2,7 @@
 title: "「SF-PLF」10 Sub"
 subtitle: "Programming Language Foundations - Subtyping (子类型化)"
 layout: post
-author: "Hux"
+author: "Yufan Deng"
 header-style: text
 hidden: true
 tags:
@@ -137,7 +137,6 @@ why `T` not arrow? Top...
 if including Bottom...many proof becomes hard, canonical form need to say...might be Bottom?
 
 > no, no value has type Bottom (Void)...
-
 
 
 

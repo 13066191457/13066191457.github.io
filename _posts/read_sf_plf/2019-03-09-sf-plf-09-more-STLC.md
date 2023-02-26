@@ -2,7 +2,7 @@
 title: "「SF-PLF」9 MoreStlc"
 subtitle: "Programming Language Foundations - More on The Simply Typed Lambda-Calculus"
 layout: post
-author: "Hux"
+author: "Yufan Deng"
 header-style: text
 hidden: true
 tags:
@@ -45,16 +45,16 @@ t ::=                Terms
 ```
 
     Reduction:
-
+    
                                  t1 --> t1'
                      ----------------------------------               (ST_Let1)
                      let x=t1 in t2 --> let x=t1' in t2
-
+    
                         ----------------------------              (ST_LetValue)  <-- substitute as λ
                         let x=v1 in t2 --> [x:=v1]t2
-
+    
     Typing:
-
+    
              Gamma |- t1 \in T1      x|->T1; Gamma |- t2 \in T2
              --------------------------------------------------        (T_Let)
                         Gamma |- let x=t1 in t2 \in T2
@@ -81,40 +81,40 @@ T ::=                Types
 ```
 
     Reduction:
-
+    
                               t1 --> t1'
                          --------------------                        (ST_Pair1)
                          (t1,t2) --> (t1',t2)
-
+    
                               t2 --> t2'
                          --------------------                        (ST_Pair2)
                          (v1,t2) --> (v1,t2')
-
+    
                               t1 --> t1'
                           ------------------                          (ST_Fst1)
                           t1.fst --> t1'.fst
-
+    
                           ------------------                       (ST_FstPair)
                           (v1,v2).fst --> v1
-
+    
                               t1 --> t1'
                           ------------------                          (ST_Snd1)
                           t1.snd --> t1'.snd
-
+    
                           ------------------                       (ST_SndPair)
                           (v1,v2).snd --> v2
 
 
     Typing:
-
+    
                Gamma |- t1 \in T1     Gamma |- t2 \in T2
                -----------------------------------------               (T_Pair)
                        Gamma |- (t1,t2) \in T1*T2
-
+    
                         Gamma |- t \in T1*T2
                         ---------------------                          (T_Fst)
                         Gamma |- t.fst \in T1
-
+    
                         Gamma |- t \in T1*T2
                         ---------------------                          (T_Snd)
                         Gamma |- t.snd \in T2
@@ -141,9 +141,9 @@ T ::=                Types
 ```
 
     No reduction rule!
-
+    
     Typing:
-
+    
                          ----------------------                        (T_Unit)
                          Gamma |- unit \in Unit
 
@@ -201,38 +201,38 @@ T ::=                Types
 ```
 
     Reduction:
-
+    
                                t1 --> t1'
                         ------------------------                       (ST_Inl)
                         inl T2 t1 --> inl T2 t1'
-
+    
                                t2 --> t2'
                         ------------------------                       (ST_Inr)
                         inr T1 t2 --> inr T1 t2'
-
+    
                                t0 --> t0'
                -------------------------------------------            (ST_Case)
                 case t0 of inl x1 => t1 | inr x2 => t2 -->
                case t0' of inl x1 => t1 | inr x2 => t2
-
+    
             -----------------------------------------------        (ST_CaseInl)
             case (inl T2 v1) of inl x1 => t1 | inr x2 => t2
                            -->  [x1:=v1]t1
-
+    
             -----------------------------------------------        (ST_CaseInr)
             case (inr T1 v2) of inl x1 => t1 | inr x2 => t2
                            -->  [x2:=v1]t2
-
+    
     Typing:
-
+    
                           Gamma |- t1 \in T1
                    ------------------------------                       (T_Inl)
                    Gamma |- inl T2 t1 \in T1 + T2
-
+    
                           Gamma |- t2 \in T2
                    -------------------------------                      (T_Inr)
                     Gamma |- inr T1 t2 \in T1 + T2
-
+    
                         Gamma |- t \in T1+T2
                      x1|->T1; Gamma |- t1 \in T
                      x2|->T2; Gamma |- t2 \in T
@@ -262,6 +262,7 @@ T ::=                Types
 - in TaPL ch11, we manually provide `T` to all term (data constructor)
   - but actually, only `nil` need it! (others can be inferred by argument)
   
+
 and that's we did for SF here! 
 
 
@@ -284,38 +285,38 @@ T ::=                Types
 ```
 
     Reduction:
-
+    
                                 t1 --> t1'
                        --------------------------                    (ST_Cons1)
                        cons t1 t2 --> cons t1' t2
-
+    
                                 t2 --> t2'
                        --------------------------                    (ST_Cons2)
                        cons v1 t2 --> cons v1 t2'
-
+    
                               t1 --> t1'
                 -------------------------------------------         (ST_Lcase1)
                  (lcase t1 of nil => t2 | xh::xt => t3) -->
                 (lcase t1' of nil => t2 | xh::xt => t3)
-
+    
                -----------------------------------------          (ST_LcaseNil)
                (lcase nil T of nil => t2 | xh::xt => t3)
                                 --> t2
-
+    
             ------------------------------------------------     (ST_LcaseCons)
             (lcase (cons vh vt) of nil => t2 | xh::xt => t3)
                           --> [xh:=vh,xt:=vt]t3                  -- multiple substi
 
 
     Typing:
-
+    
                         -------------------------                       (T_Nil)
                         Gamma |- nil T \in List T
-
+    
              Gamma |- t1 \in T      Gamma |- t2 \in List T
              ---------------------------------------------             (T_Cons)
                     Gamma |- cons t1 t2 \in List T
-
+    
                         Gamma |- t1 \in List T1
                         Gamma |- t2 \in T
                 (h|->T1; t|->List T1; Gamma) |- t3 \in T
@@ -353,7 +354,7 @@ t ::=                Terms
                                 t1 --> t1'
                             ------------------                        (ST_Fix1)
                             fix t1 --> fix t1'
-
+    
                --------------------------------------------         (ST_FixAbs)
                fix (\xf:T1.t2) --> [xf:=fix (\xf:T1.t2)] t2         -- fix f = f (fix f)
 
@@ -386,25 +387,25 @@ T ::=                          Types
 ```
 
     Reduction:
-
+    
                               ti --> ti'
                  ------------------------------------                  (ST_Rcd)
                      {i1=v1, ..., im=vm, in=ti , ...}
                  --> {i1=v1, ..., im=vm, in=ti', ...}
-
+    
                               t1 --> t1'
                             --------------                           (ST_Proj1)
                             t1.i --> t1'.i
-
+    
                       -------------------------                    (ST_ProjRcd)
                       {..., i=vi, ...}.i --> vi
-
+    
     Typing:
-
+    
             Gamma |- t1 \in T1     ...     Gamma |- tn \in Tn
           ----------------------------------------------------          (T_Rcd)
           Gamma |- {i1=t1, ..., in=tn} \in {i1:T1, ..., in:Tn}
-
+    
                     Gamma |- t \in {..., i:Ti, ...}
                     -------------------------------                    (T_Proj)
                           Gamma |- t.i \in Ti
@@ -456,7 +457,6 @@ Hint Extern 2 (_ = _) => compute; reflexivity.
 
 
 效果非常酷：typecheck 只需要 `eauto`，reduction 只需要 `normalize`.
-
 
 
 

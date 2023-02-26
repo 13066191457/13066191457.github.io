@@ -2,7 +2,7 @@
 title: "「SF-LC」10 IndPrinciples"
 subtitle: "Logical Foundations - Induction Principles"
 layout: post
-author: "Hux"
+author: "Yufan Deng"
 header-style: text
 hidden: true
 tags:
@@ -164,12 +164,12 @@ list_ind : ∀(X : Type) (P : list X → Prop),
 ```
 
     ∀(X : Type), {
-
+    
                                P []                   -- base structure holds
         ∀(x : X) (l : list X), P l → P (x :: l)       -- sub-structure holds -> structure holds
         ---------------------------------------
         ∀l : list X,           P l                    -- all structure holds
-
+    
     }
 
 
@@ -250,7 +250,7 @@ ev_ind_max : ∀ P : (∀n : nat, even n → Prop),
 
 2. 要证的性质 `P` is parametrized by `E : even n` 也因此连带着 by `n`. 也就是 `P : (∀n : nat, even n → Prop)`  (对比 `P : list X → Prop`)
   - 所以其实关于 `even n` 的性质是同时关于数字 `n` 和证据 `even n` 这两件事的.
-  
+
 因此 `sub structure -> structure` 说得是：
 > whenever `n` is an even number and `E` is an evidence of its evenness, if `P` holds of `n` and `E`, then it also holds of `S (S n)` and `ev_SS n E`.
 > 对于任意数字 `n` 与证据 `E`，如果 `P` 对 `n` 和 `E` 成立，那么它也对 `S (S n)` 和 `ev_SS n E` 成立。
@@ -270,13 +270,13 @@ ev_ind_max : ∀ P : (∀n : nat, even n → Prop),
       ∀P : (∀n : nat, even n → Prop),
       ... →
       ∀(n : nat) (E : even n), P n E
-      
+
 可以被简化为只对 `nat` 参数化的归纳假设：
 
       ∀P : nat → Prop,
       ... →
       ∀(n : nat) (E: even n), P n
-      
+
 
 因此 coq 生成的归纳原理也是不包括证据的。注意 `P` 丢弃了参数 `E`:
 

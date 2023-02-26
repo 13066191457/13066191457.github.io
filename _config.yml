@@ -91,7 +91,7 @@ page-mathjax: false
 # Friend
 dengyufan:
   [
-    { title: "1", href: "http://mida.re/" },
+    { title: "广医主页", href: "https://www.gzhmu.edu.cn" },
     { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
     { title: "Kun Qian", href: "http://kunq.me" },
     { title: "Sherry Woo", href: "https://sherrywoo.me/" },

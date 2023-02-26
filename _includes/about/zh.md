@@ -19,7 +19,7 @@ Hey，我是邓钰凡（a.k.a. DengYufan, _@Yufan Deng_），一个略懂计算�
 -[批改网]
 -[Youtobe]
 -[VPN]
-
+-[IP查询]
 
 -##### 演讲与分享
 
@@ -56,3 +56,4 @@ Hey，我是邓钰凡（a.k.a. DengYufan, _@Yufan Deng_），一个略懂计算�
 [批改网]:https://www.pigai.org
 [Youtobe]:https://www.youtube.com
 [VPN]:http://54.176.81.246:54321
+[IP查询]:https://ping.pe

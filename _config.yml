@@ -89,7 +89,7 @@ service-worker: true
 page-mathjax: false
 
 # Friends
-dengyufan:
+friend:
   [
     { title: "广医主页", href: "https://www.gzhmu.edu.cn" },
     { title: "Ebn Zhang", href: "https://ebnbin.dev/" },

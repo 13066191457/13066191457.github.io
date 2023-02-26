@@ -54,6 +54,6 @@ Hey，我是邓钰凡（a.k.a. DengYufan, _@Yufan Deng_），一个略懂计算�
 [14]:http://ktkkt.top
 [15]:https://www.mandao.tv
 [批改网]:https://www.pigai.org
-[YouTbe]:https://www.youtube.com
+[YouTube]:https://www.youtube.com
 [VPN]:http://54.176.81.246:54321
 [IP查询]:https://ping.pe

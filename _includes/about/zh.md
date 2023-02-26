@@ -50,7 +50,7 @@ Hey，我是邓钰凡（a.k.a. DengYufan, _@Yufan Deng_），一个略懂计算�
 [11]: https://youtu.be/lGEMwh32soc
 [12]: https://reactjs.org/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022.html
 [广州医科大学]:https://www.gzhmu.edu.cn
-[广医校园网登入]:192.168.12.3
+[广医校园网登入]:http://192.168.12.3
 [14]:http://ktkkt.top
 [15]:https://www.mandao.tv
 [批改网]:https://www.pigai.org

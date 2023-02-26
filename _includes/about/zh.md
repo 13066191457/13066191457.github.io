@@ -9,7 +9,19 @@ Hey，我是邓钰凡（a.k.a. DengYufan, _@Yufan Deng_），一个略懂计算�
 
 目前的物理活动范围主要在广州与东莞，也想当个数字游<del>民</del>侠。虚拟分身日常出没于[微博](https://weibo.com)、[知乎](https://www.zhihu.com)、[B站](https://space.bilibili.com/43271611)、[Instagram](https://www.instagram.com/huxpro/)、[推特](https://twitter.com)、[Github](https://github.com) 等。
 
-##### 演讲与分享
+
+
+##### 实用网站
+-[广州医科大学]
+-[广医校园网登入]
+-[动漫观看地址1][14]
+-[动漫观看地址2][15]
+-[批改网]
+-[Youtobe]
+-[VPN]
+
+
+-##### 演讲与分享
 
 - [React Labs: What We've Been Working On – June 2022][12] · React Blog
 - [React Without Memo][11] · [React Conf 2021](https://conf.reactjs.org/)
@@ -25,14 +37,6 @@ Hey，我是邓钰凡（a.k.a. DengYufan, _@Yufan Deng_），一个略懂计算�
 - [CSS Still Sucks 2015][2] · 2015
 - [JavaScript 模块化七日谈][1] · 2015
 
-##### 实用网站
--广州医科大学[13]
--
--
--
--
--
-
 [1]: //huangxuan.me/2015/07/09/js-module-7day/
 [2]: //huangxuan.me/2015/12/28/css-sucks-2015/
 [3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
@@ -45,4 +49,10 @@ Hey，我是邓钰凡（a.k.a. DengYufan, _@Yufan Deng_），一个略懂计算�
 [10]: https://reactnative.dev/blog/2021/10/26/toward-hermes-being-the-default
 [11]: https://youtu.be/lGEMwh32soc
 [12]: https://reactjs.org/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022.html
-[13]:https://www.gzhmu.edu.cn
+[广州医科大学]:https://www.gzhmu.edu.cn
+[广医校园网登入]:192.168.12.3
+[14]:http://ktkkt.top
+[15]:https://www.mandao.tv
+[批改网]:https://www.pigai.org
+[Youtobe]:https://www.youtube.com
+[VPN]:http://54.176.81.246:54321

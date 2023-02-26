@@ -26,7 +26,7 @@ Hey，我是邓钰凡（a.k.a. DengYufan, _@Yufan Deng_），一个略懂计算�
 - [JavaScript 模块化七日谈][1] · 2015
 
 ##### 实用网站
--广州医科大学[https://www.gzhmu.edu.cn]
+-广州医科大学[13]
 -
 -
 -
@@ -45,3 +45,4 @@ Hey，我是邓钰凡（a.k.a. DengYufan, _@Yufan Deng_），一个略懂计算�
 [10]: https://reactnative.dev/blog/2021/10/26/toward-hermes-being-the-default
 [11]: https://youtu.be/lGEMwh32soc
 [12]: https://reactjs.org/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022.html
+[13]:https://www.gzhmu.edu.cn

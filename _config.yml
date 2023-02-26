@@ -107,5 +107,6 @@ friends:
     { title: "万方", href: "https://www.wanfangdata.com.cn/index.html" },
     { title: "中国知网", href: "https://www.cnki.net" },
     { title: "阿里云", href: "https://www.aliyun.com/product/oss" },
-   
+    { title: "电视剧1", href: "https://guazitv.tv" },
+    { title: "电视剧2", href: "https://www.duboku.tv" },
   ]

@@ -93,7 +93,11 @@ friends:
   [
     { title: "广医主页", href: "https://www.gzhmu.edu.cn" },
     { title: "广医校园网", href: "http://192.168.12.3" },
+    { title: "广医失物招领", href: "http://zsgy.vip.jnwangge.cn/jwgzhmu/lost_a_found/found.php" },
+    { title: "广医吃瓜墙", href: "https://wall.zsgmu.com/wall/index?appId=wx955bbb14807cebf8&rf=ca555d53" },
+    { title: "广医学习资料（完善中）", href: "https://gzhum-my.sharepoint.com/:f:/g/personal/286846966_gzhum_onmicrosoft_com/EvhCQVuqxaFDrOFHfvqy3bUBpAdgoi5BqRfM_ej8Tr3V9A?e=Atg6pL" },
     { title: "IP查询", href: "https://ping.pe" },
+    
     { title: "批改网", href: "https://www.pigai.org" },
     { title: "YouTube", href: "https://www.youtube.com" },
     { title: "VPN后台", href: "http://54.176.81.246:54321" },
@@ -115,7 +119,6 @@ friends:
     { title: "iOS VPN下载", href: "https://apps.apple.com/us/app/shadowrocket/id932747118" },
     { title: "C9高校网盘", href: "https://www.seafile.com/home" },
     { title: "广医网盘", href: "http://i.mooc.chaoxing.com/space" },
-    { title: "广医学习资料（完善中）", href: "https://gzhum-my.sharepoint.com/:f:/g/personal/286846966_gzhum_onmicrosoft_com/EvhCQVuqxaFDrOFHfvqy3bUBpAdgoi5BqRfM_ej8Tr3V9A?e=Atg6pL" },
     { title: "Mircosoft会员账号（两年有效期）", href: "https://dengyufan.oss-cn-hongkong.aliyuncs.com/test202302271945285.docx" },
     { title: "南医学习资料（可编辑）", href: "https://gzhum-my.sharepoint.com/:f:/g/personal/286846966_gzhum_onmicrosoft_com/EnHBtRXDWzxPvIewe3ZLuzABsVD4hNReR4wVM14sI4NjJw?e=WfD0rY" },
   ]

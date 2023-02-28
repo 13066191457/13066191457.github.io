@@ -1,4 +1,4 @@
-Hux Blog User Manual
+Yufan Deng Blog User Manual
 ====================
 
 * Basics

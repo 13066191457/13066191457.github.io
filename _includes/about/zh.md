@@ -69,7 +69,7 @@ Hey，我是邓钰凡（a.k.a. DengYufan, _@Yufan Deng_），一个略懂计算�
 [电视剧1]:https://guazitv.tv
 [电视剧2]:https://www.duboku.tv
 [WiKi]:https://www.wikipedia.org
-[AI绘画]:https://lexica.art
+[AI绘画]:https://dreamlike.art
 [奈飞]:https://www.netflix.com
 [OpenAI]:https://chat.openai.com/chat
 [广医学习资料（完善中）]:https://gzhum-my.sharepoint.com/:f:/g/personal/286846966_gzhum_onmicrosoft_com/EvhCQVuqxaFDrOFHfvqy3bUBpAdgoi5BqRfM_ej8Tr3V9A?e=Atg6pL

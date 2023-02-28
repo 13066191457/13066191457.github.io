@@ -21,7 +21,7 @@ Hey，我是邓钰凡（a.k.a. DengYufan, _@Yufan Deng_），一个略懂计算�
 -[电视剧2]
 - [批改网]
 - [YouTube]
-- [VPN]
+- [VPN后台服务]
 - [IP查询]
 - [奈飞]
 -[AI绘画]
@@ -63,7 +63,7 @@ Hey，我是邓钰凡（a.k.a. DengYufan, _@Yufan Deng_），一个略懂计算�
 [15]:https://www.agemys.net
 [批改网]:https://www.pigai.org
 [YouTube]:https://www.youtube.com
-[VPN]:http://54.176.81.246:54321
+[VPN后台服务]:http://54.176.81.246:54321
 [IP查询]:https://ping.pe
 [广医学习资料]:https://gzhum-my.sharepoint.com/:f:/g/personal/286846966_gzhum_onmicrosoft_com/EvhCQVuqxaFDrOFHfvqy3bUBpAdgoi5BqRfM_ej8Tr3V9A?e=Atg6pL
 [电视剧1]:https://guazitv.tv

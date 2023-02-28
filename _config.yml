@@ -93,7 +93,6 @@ friends:
   [
     { title: "广医主页", href: "https://www.gzhmu.edu.cn" },
     { title: "广医校园网", href: "http://192.168.12.3" },
-    { title: "广医失物招领", href: "http://zsgy.vip.jnwangge.cn/jwgzhmu/lost_a_found/found.php" },
     { title: "广医吃瓜墙", href: "https://wall.zsgmu.com/wall/index?appId=wx955bbb14807cebf8&rf=ca555d53" },
     { title: "广医学习资料（完善中）", href: "https://gzhum-my.sharepoint.com/:f:/g/personal/286846966_gzhum_onmicrosoft_com/EvhCQVuqxaFDrOFHfvqy3bUBpAdgoi5BqRfM_ej8Tr3V9A?e=Atg6pL" },
     { title: "IP查询", href: "https://ping.pe" },

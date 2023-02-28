@@ -14,12 +14,20 @@ Hey，我是邓钰凡（a.k.a. DengYufan, _@Yufan Deng_），一个略懂计算�
 ##### 实用网站
 -[广州医科大学]
 -[广医校园网登入]
+-[广医学习资料]
 -[动漫观看地址1][14]
 -[动漫观看地址2][15]
+-[电视剧1]
+-[电视剧2]
 -[批改网]
 -[YouTube]
 -[VPN]
 -[IP查询]
+-[奈飞]
+-[AI绘画]
+-[WiKi]
+-[OpenAI]
+-[广医学习资料（完善中）]
 
 -##### 演讲与分享
 
@@ -52,8 +60,17 @@ Hey，我是邓钰凡（a.k.a. DengYufan, _@Yufan Deng_），一个略懂计算�
 [广州医科大学]:https://www.gzhmu.edu.cn
 [广医校园网登入]:http://192.168.12.3
 [14]:http://ktkkt.top
-[15]:https://www.mandao.tv
+[15]:https://www.agemys.net
 [批改网]:https://www.pigai.org
 [YouTube]:https://www.youtube.com
 [VPN]:http://54.176.81.246:54321
 [IP查询]:https://ping.pe
+[广医学习资料]:https://gzhum-my.sharepoint.com/:f:/g/personal/286846966_gzhum_onmicrosoft_com/EvhCQVuqxaFDrOFHfvqy3bUBpAdgoi5BqRfM_ej8Tr3V9A?e=Atg6pL
+[电视剧1]:https://guazitv.tv
+[电视剧2]:https://www.duboku.tv
+[WiKi]:https://www.wikipedia.org
+[AI绘画]:https://lexica.art
+[奈飞]:https://www.netflix.com
+[OpenAI]:https://chat.openai.com/chat
+[广医学习资料（完善中）]:https://gzhum-my.sharepoint.com/:f:/g/personal/286846966_gzhum_onmicrosoft_com/EvhCQVuqxaFDrOFHfvqy3bUBpAdgoi5BqRfM_ej8Tr3V9A?e=Atg6pL
+[]

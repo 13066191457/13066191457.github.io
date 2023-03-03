@@ -1,12 +1,14 @@
 ---
-layout:     keynote
+layout:     post
 title:      "科学上网"
 subtitle:   "VPN"
-date:       2023-03-02
+date:       2023-03-02 12:00:00
 author:     "Yufan Deng"
 tags:
     - 加密服务端
 ---
+
+
 # 域名解析
 - 搭建VPN前提是要有dns解析服务，这要求自己必须准备一个域名来解析IP地址
 - 我用的是cloudflare服务（以前用的是阿里云，然后嘛懂得都懂），购买域名（购买的是一二级域名,即顶级域名），dns设置，添加记录，类型为A，三级域名随便填，解析对象为你所用vps或虚拟机的IP地址。

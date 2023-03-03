@@ -2,7 +2,7 @@
 title: "「SF-PLF」4 HoareAsLogic"
 subtitle: "Programming Language Foundations - Hoare Logic as a Logic"
 layout: post
-author: "HYufan Deng"
+author: "Yufan Deng"
 header-style: text
 hidden: true
 tags:

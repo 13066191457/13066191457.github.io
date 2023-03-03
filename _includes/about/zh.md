@@ -27,7 +27,7 @@ Hey，我是邓钰凡（a.k.a. DengYufan, _@Yufan Deng_），一个略懂计算�
 -[AI绘画]
 -[WiKi]
 -[OpenAI]
--[广医学习资料（完善中）]
+-[广医学习资料（基本框架已搭建好）]
 -[南方医学习资料]
 
 -##### 演讲与分享
@@ -74,4 +74,4 @@ Hey，我是邓钰凡（a.k.a. DengYufan, _@Yufan Deng_），一个略懂计算�
 [奈飞]:https://www.netflix.com
 [OpenAI]:https://chat.openai.com/chat
 [广医学习资料（基本框架已搭建好）]:https://gzhum-my.sharepoint.com/:f:/g/personal/286846966_gzhum_onmicrosoft_com/EvhCQVuqxaFDrOFHfvqy3bUBpAdgoi5BqRfM_ej8Tr3V9A?e=Atg6pL
-[南方医学习资料]：https://gzhum-my.sharepoint.com/:f:/g/personal/286846966_gzhum_onmicrosoft_com/EnHBtRXDWzxPvIewe3ZLuzABsVD4hNReR4wVM14sI4NjJw?e=WfD0rY
+[南方医学习资料]:https://gzhum-my.sharepoint.com/:f:/g/personal/286846966_gzhum_onmicrosoft_com/EnHBtRXDWzxPvIewe3ZLuzABsVD4hNReR4wVM14sI4NjJw?e=WfD0rY

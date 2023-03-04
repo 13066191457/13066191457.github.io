@@ -21,7 +21,7 @@ Hey，我是邓钰凡（a.k.a. DengYufan, _@Yufan Deng_），一个略懂计算�
 -[电视剧2]
 -[批改网]
 -[YouTube]
--[VPN]
+-[VPN后台（已搭好）]
 -[IP查询]
 -[奈飞]
 -[AI绘画]

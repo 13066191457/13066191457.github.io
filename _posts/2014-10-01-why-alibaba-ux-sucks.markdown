@@ -1,68 +1,47 @@
 ---
-layout:     post
-title:      "为什么阿里系软件体验都不好？"
-subtitle:   "或许这就是所谓的企业 DNA "
-date:       2022-10-1 12:00:00
-author:     "Yufan Deng"
-header-img: "img/post-bg-alibaba.jpg"
+layout:       post
+title:        "科学上网"
+subtitle:     "VPN"
+date:         2023-03-02 12:00:00
+author:       "Yufan Deng"
+header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
+header-mask:  0.3
+catalog:      true
+multilingual: true
 tags:
-    - 知乎
-    - 产品
-    - 阿里
+    - 加密服务端
 ---
 
 > 这篇文章转载自[知乎上的回答](http://www.zhihu.com/question/25657351/answer/31278511)
+# 域名解析
+- 搭建VPN前提是要有dns解析服务，这要求自己必须准备一个域名来解析IP地址
+- 我用的是cloudflare服务（以前用的是阿里云，然后嘛懂得都懂），购买域名（购买的是一二级域名,即顶级域名），dns设置，添加记录，类型为A，三级域名随便填，解析对象为你所用vps或虚拟机的IP地址。
+# 连接vps或远程连接虚拟机进行代码执行
+首先，得会使用SSH连接海外服务器（非常简单，自己琢磨），或者可以远程连接海外虚拟机打开终端。
+其次，输入代码更新系统数据，确保环境能正常运行代码。例如我输入的代码是：
+- apt update -y 
+- apt install -y curl socat
+- 然后执行X-UI代码
+- bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+- 放行端口，输入命令
+
+- iptables -I INPUT -p tcp --dport 443 -j ACCEPT
+- iptables -I INPUT -p tcp --dport 54321 -j ACCEPT
+# 申请 SSL 的证书
+输入命令：x-ui
+
+- x-ui 管理面板设置
+添加证书和密钥路径，重启面板
+通过域名访问x-ui 管理面板：<br>https://域名:54321
+# 注意事项
+- 1、实在不行的话，可以给设备添加权限，即执行命令
+- sudo su
+- 2、密钥路径，在root/cert目录下的两个文件，一个为fullchain.cer,另一个为二三级域名.key
+- 密钥在cloudflare左侧栏的overview（总览，我翻译的，意思一样就行）下的API（往下滑），点击get your API token（获取你的令牌），Global API key（全局密钥），输入你的cloudflare登入密码
+- SSL证书申请时输入的邮箱为你注册cloudflare的注册邮箱，域名只需要输入一二级域名（即二级和顶级域名，www.baidu.com,即输入baidu.com），切记不可输入三级域名。
+- 若有不解或犹豫操作，可发至邮箱286846966@qq.com/dengyufan666666@gmail.com（谷歌邮箱我不经常浏览）联系作者。
 
 
 <div >
-    <br>
-    <br><b>一言以蔽之，优先级。</b>
-    <br>这个优先级并不是由谁或者哪个Boss定的，而是<b>长期的市场竞争和业务需求下的结果</b>
-    <br>
-    <br>
-    <ul>
-        <li><b>为什么企鹅家的App用户体验较好？</b>
-        </li>
-    </ul>
-    企鹅家的主力产品，QQ、微信、QQ音乐、QQ空间 等，多是IM（即时通讯）、SNS（社交网络）、数字娱乐 等形态的产品。
-    <br>
-    <br><b>这类产品往往必须「直接依靠优秀的产品服务与用户体验」来赢得用户。</b>
-    <br>
-    <br>如果这点做不好，产品就无法在竞争中脱颖而出。这也使得在企鹅内部，<b>围绕这部分的要求，需求，反馈 </b><b>都一定最多，使得企鹅不得不把这部分做好</b>。
-    <br>
-    <br>
-    <ul>
-        <li><b>那为什么阿里系的App用户体验较差？</b>
-        </li>
-    </ul>
-    阿里系的主力产品，从1688、淘宝、再到支付宝、天猫、淘宝旅行、淘点点、一淘、旺旺，要么是电商类产品，要么就是电商类的延伸产品。
-    <br>
-    <br>而这类产品的核心竞争力（或者说要做好的难处），往往在<b>「如何与实体经济，甚至政府 打交道」、</b><b>「如何做好运营」，</b>而非优秀的用户体验。
-    <br>
-    <br>应该说，阿里从来都不是不重视用户体验，这两年更是愈发重视。但是因为身处这样的市场环境，<b>阿里必须先完成这些优先级更高的需求（海量的业务，运营需求）以抢占市场，</b>
-    <br>这才导致阿里内部无法有太多精力focus到客户端体验上。
-    <br>
-    <br>
-    <br>
-    <br>上面就算基本回答了题主的问题，
-    <br>不过，知乎惯例，多说几句：
-    <br>
-    <br><b>其实，上面的答案，也可以说这都是说辞。</b>
-    <br>
-    <br>在我刚刚加入阿里的时候，我也一度纳闷甚至郁闷这个事。直到我开始接触更多的项目，我才能逐渐理解「为什么会这样」。
-    <br>
-    <br><b>但是，这并不足以成为借口。</b>
-    <br><b>该不该改？ 当然该改。</b>
-    <br>
-    <br>我相信几乎所有阿里人，尤其UED，肯定都不希望这样。
-    <br>只能说，这需要阿里投入更多的人、更多的时间、更多的努力来做好
-    <br>
-    <br>
-    <br>
-    <br>以上。
-    <br>
-    <br>利益相关：
-    <br>阿里员工
-    <br>
-    <br>
+   
 </div>

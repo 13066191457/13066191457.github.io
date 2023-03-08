@@ -107,6 +107,7 @@ friends:
     { title: "奈飞", href: "https://www.netflix.com" },
     { title: "奈飞账号（购买不易，请手下留情）", href: "https://www.netflix.com" },
     { title: "AI绘画", href: "https://dreamlike.art" },
+    { title: "AI照片卡通化", href: "https://toonme.com" },
     { title: "虚拟手机卡", href: "https://quackr.io" },
     { title: "WiKi", href: "https://www.wikipedia.org" },
     { title: "OpenAI", href: "https://chat.openai.com/chat" },
@@ -123,7 +124,10 @@ friends:
     { title: "iOS VPN下载", href: "https://apps.apple.com/us/app/shadowrocket/id932747118" },
     { title: "C9高校网盘", href: "https://www.seafile.com/home" },
     { title: "广医网盘", href: "http://i.mooc.chaoxing.com/space" },
-    { title: "广医吃瓜墙", href: "https://wall.zsgmu.com/wall/index?appId=wx955bbb14807cebf8&rf=ca555d53" },
     { title: "Mircosoft会员账号（两年有效期）", href: "https://dengyufan.oss-cn-hongkong.aliyuncs.com/test202302271945285.docx" },
     { title: "南医学习资料（可编辑）", href: "https://gzhum-my.sharepoint.com/:f:/g/personal/286846966_gzhum_onmicrosoft_com/EnHBtRXDWzxPvIewe3ZLuzABsVD4hNReR4wVM14sI4NjJw?e=WfD0rY" },
+    { title: "网站盲盒（划水好东西）", href: "https://sharkle.com" },
+    { title: "名字模拟器", href: "www.qmsjmfb.com" },
+
+    
   ]

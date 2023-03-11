@@ -1,13 +1,27 @@
 Hey, I am Deng, Yufan (a.k.a. _@Yufan Deng_). I worked on the [GZMU](https://https://www.gzhmu.edu.cn) at <del>粤华</del>厂医.
 
-I considered myself as a hybrid between a software engineer specifically into the programming languages theories and implementations domain (i.e. compiler, type system, type-based formal verification, virtual machine, runtime systems, garbage collection), and a creative technologiest deeply caring about many humanistic aspects (e.g. visual, sound, interaction) in UI and HCI in general.
 
-I also worked on the [Hermes JavaScript Engine](https://hermesengine.dev/), some other projects under the [Reality Labs (Research)](https://tech.fb.com/ar-vr/), and [ReasonML](https://reasonml.github.io/) (now [ReScript](https://rescript-lang.org/)) efforts at Meta (Facebook).
+You might be surprised to hear that. I didn't choose this school to achieve anything. All the way down, there has been a vague goal in my heart -- to become an excellent person, but I did not decide the final destination. Not determined to become a politician, a doctor, a researcher, or anything else. For better or worse, my approach to life so far has been to avoid making things big. Spend each day simply completing a project that someone else has prepared for you. To be a "role model." Be a role model.
 
-In the past, I worked on [Alitrip (Fliggy)](https://www.alitrip.com/) mobile and web apps under the [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), found and lead front-end infrastructure team at an unicorn startup company [Beijing Weiying (a.k.a. WePiao, now acquired by Maoyan)](https://www.crunchbase.com/organization/beijing-weiying-technology), and helped [Ele.me (now acquired by Alibaba)](https://en.wikipedia.org/wiki/Ele.me) to upgrade their mobile web site into [the first influential PWA (progressive web app) in China](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509).
-
-I studied BA, Digital Media Art at [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) and MS, Computer Science (with a focus on programming languages, mainly supervised by [Prof. Matthew Fluet](https://www.cs.rit.edu/~mtf/)) at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology).
-
+Currently, my physical activities are mainly in Guangzhou and Dongguan. I also want to be a digital nomad. Virtual dopes can be found on Weibo, Zhihu, B website, Instagram, Twitter, Github, etc.
+##### 实用网站
+- [广州医科大学]
+-[广医校园网登入]
+-[广医学习资料]
+- [动漫观看地址1][14]
+-[动漫观看地址2][15]
+-[电视剧1]
+-[电视剧2]
+- [批改网]
+- [YouTube]
+-[VPN后台（已搭好）]
+-[IP查询]
+- [奈飞]
+-[AI绘画]
+-[WiKi]
+-[OpenAI]
+- [广医学习资料（基本框架已搭建好）]
+-[南方医学习资料]
 ##### Appearence
 
 - [React Labs: What We've Been Working On – June 2022][12] · React Blog · 2022
@@ -36,3 +50,21 @@ I studied BA, Digital Media Art at [Communication University of China](https://e
 [10]: https://reactnative.dev/blog/2021/10/26/toward-hermes-being-the-default
 [11]: https://youtu.be/lGEMwh32soc
 [12]: https://reactjs.org/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022.html
+[广州医科大学]:https://www.gzhmu.edu.cn
+[广医校园网登入]:http://192.168.12.3
+[14]:http://ktkkt.top
+[15]:https://www.agemys.net
+[批改网]:https://www.pigai.org
+[YouTube]:https://www.youtube.com
+[VPN后台（已搭好）]:https://www.dyf.icu:55555
+[IP查询]:https://ping.pe
+[广医学习资料]:https://gzhum-my.sharepoint.com/:f:/g/personal/286846966_gzhum_onmicrosoft_com/EvhCQVuqxaFDrOFHfvqy3bUBpAdgoi5BqRfM_ej8Tr3V9A?e=Atg6pL
+[电视剧1]:https://guazitv.tv
+[电视剧2]:https://www.duboku.tv
+[WiKi]:https://www.wikipedia.org
+[AI绘画]:https://dreamlike.art
+[奈飞]:https://www.netflix.com
+[OpenAI]:https://chat.openai.com/chat
+[广医学习资料（基本框架已搭建好）]:https://gzhum-my.sharepoint.com/:f:/g/personal/286846966_gzhum_onmicrosoft_com/EvhCQVuqxaFDrOFHfvqy3bUBpAdgoi5BqRfM_ej8Tr3V9A?e=Atg6pL
+[南方医学习资料]:https://gzhum-my.sharepoint.com/:f:/g/personal/286846966_gzhum_onmicrosoft_com/EnHBtRXDWzxPvIewe3ZLuzABsVD4hNReR4wVM14sI4NjJw?e=WfD0rY
+

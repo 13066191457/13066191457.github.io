@@ -9,7 +9,7 @@ Hey，我是邓钰凡（a.k.a. DengYufan, _@Yufan Deng_），一个略懂计算�
 
 目前的物理活动范围主要在广州与东莞，也想当个数字游<del>民</del>侠。虚拟分身日常出没于[微博](https://weibo.com)、[知乎](https://www.zhihu.com)、[B站](https://space.bilibili.com/43271611)、[Instagram](https://www.instagram.com/huxpro/)、[推特](https://twitter.com)、[Github](https://github.com) 等。
 ##### 奈飞账号（三号机位）
-- sz6605987@163.com
+- <h>sz6605987@163.com</h>
 - zzdpez
 - pin码 6666
 

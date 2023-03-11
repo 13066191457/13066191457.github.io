@@ -30,7 +30,7 @@ Hey，我是邓钰凡（a.k.a. DengYufan, _@Yufan Deng_），一个略懂计算�
 - [广医学习资料（基本框架已搭建好）]
 -[南方医学习资料]
 
--##### 演讲与分享
+##### 演讲与分享
 
 - [React Labs: What We've Been Working On – June 2022][12] · React Blog
 - [React Without Memo][11] · [React Conf 2021](https://conf.reactjs.org/)

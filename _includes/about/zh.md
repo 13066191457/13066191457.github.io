@@ -68,7 +68,7 @@ Hey，我是邓钰凡（a.k.a. DengYufan, _@Yufan Deng_），一个略懂计算�
 [15]:https://www.agemys.net
 [批改网]:https://www.pigai.org
 [YouTube]:https://www.youtube.com
-[VPN后台（已搭好）]:http://https://www.dyf.icu:55555
+[VPN后台（已搭好）]:https://www.dyf.icu:55555
 [IP查询]:https://ping.pe
 [广医学习资料]:https://gzhum-my.sharepoint.com/:f:/g/personal/286846966_gzhum_onmicrosoft_com/EvhCQVuqxaFDrOFHfvqy3bUBpAdgoi5BqRfM_ej8Tr3V9A?e=Atg6pL
 [电视剧1]:https://guazitv.tv

@@ -108,6 +108,7 @@ friends:
     { title: "奈飞账号（购买不易，请手下留情）", href: "https://www.dengyufan.icu/关于/" },
     { title: "AI绘画", href: "https://playgroundai.com" },
     { title: "AI照片卡通化", href: "https://toonme.com" },
+    
     { title: "虚拟手机卡", href: "https://yunjiema.net" },
     { title: "WiKi", href: "https://www.wikipedia.org" },
     { title: "OpenAI", href: "https://chat.openai.com/chat" },
@@ -118,6 +119,9 @@ friends:
     { title: "电视剧2", href: "https://www.duboku.tv" },
     { title: "电影1", href: "https://www.pdoro.com" },
     { title: "电影2", href: "https://www.yinfans.me/" },
+    { title: "变声器1", href: "https://www.voicemod.net" },
+    { title: "变声器2", href: "https://tw.imyfone.com" },
+    { title: "变声器3", href: "https://clownfish-translator.com/voicechanger/download.html" },
     { title: "Windows VPN下载", href: "https://qingyun.filebases.com/assets/Clash.for.Windows-0.20.16-win.7z" },
     { title: "Android VPN下载", href: "https://qingyun.filebases.com/assets/cfa-2.5.12-foss-arm64-v8a-release.apk" },
     { title: "Mac OS VPN下载", href: "https://qingyun.filebases.com/assets/Clash.for.Windows-0.20.16.dmg" },
@@ -131,4 +135,5 @@ friends:
     { title: "chatgpt国内访问（广告版）", href: "https://chatgpt.qdymys.cn" },
     { title: "chatgpt4", href: "https://nat.dev" },
     { title: "New bing", href: "https://www.bing.com/" },
+
   ]

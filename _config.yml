@@ -136,10 +136,11 @@ friends:
     { title: "名字模拟器", href: "www.qmsjmfb.com" },
     { title: "chatgpt国内访问（广告版）", href: "https://chatgpt.qdymys.cn" },
     { title: "chatgpt1", href: "https://chat.gptchinese.com" },
-    { title: "chatgpt2", href: "https://chat1.yqcloud.top/" },
+     { title: "chatgpt2", href: "https://chat1.yqcloud.top/" },
     { title: "chatgpt3", href: "https://zcc.app/" },
     { title: "chatgpt4", href: "https://ai.bo-e.com/" },
     { title: "chatgpt自建,密码666666", href: "https://chat-gpt-next-web-p5cc.vercel.app" },
+    
     
     { title: "New bing", href: "https://www.bing.com/" },
     { title: "宝塔", href: "http://104.207.150.141:21583/91576e3e"}，

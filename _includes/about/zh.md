@@ -17,6 +17,8 @@ Hey，我是邓钰凡（a.k.a. DengYufan, _@Yufan Deng_），一个略懂计算�
 rprtooh@universalbus.cn
 密码:
 333ccc
+#### 备忘
+https://chat-gpt-next-web-p5cc.vercel.app
 
 
 ##### 实用网站

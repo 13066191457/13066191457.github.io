@@ -137,5 +137,6 @@ friends:
     { title: "chatgpt国内访问（广告版）", href: "https://chatgpt.qdymys.cn" },
     { title: "chatgpt4", href: "https://chat.gptchinese.com/" },
     { title: "New bing", href: "https://www.bing.com/" },
-
+    { title: "宝塔", href: "http://104.207.150.141:21583/91576e3e"}，
+    
   ]

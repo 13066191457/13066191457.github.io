@@ -19,7 +19,7 @@ rprtooh@universalbus.cn
 333ccc
 #### 备忘
 https://chat-gpt-next-web-p5cc.vercel.app
-
+3002端口已占用docker，为3002-3002.
 
 ##### 实用网站
 - [广州医科大学]

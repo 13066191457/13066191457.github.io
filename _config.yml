@@ -100,8 +100,7 @@ friends:
     
     { title: "批改网", href: "https://www.pigai.org" },
     { title: "YouTube", href: "https://www.youtube.com" },
-    { title: "VPN后台(已建好)谷歌浏览器访问，Safari不老实doge", href: "https://www.dyf.icu:55555" },
-    { title: "VPN后台(账号密码默认admin）", href: "https://www.dyf.icu:55555" },
+   
     { title: "动漫观看地址1", href: "https://www.dm530p.net" },
     { title: "动漫观看地址2", href: "https://www.agemys.net" },
     { title: "奈飞", href: "https://www.netflix.com" },
@@ -122,10 +121,10 @@ friends:
     { title: "变声器1", href: "https://www.voicemod.net" },
     { title: "变声器2", href: "https://tw.imyfone.com" },
     { title: "变声器3", href: "https://clownfish-translator.com/voicechanger/download.html" },
-    { title: "Windows VPN下载", href: "https://qingyun.filebases.com/assets/Clash.for.Windows-0.20.16-win.7z" },
-    { title: "Android VPN下载", href: "https://qingyun.filebases.com/assets/cfa-2.5.12-foss-arm64-v8a-release.apk" },
-    { title: "Mac OS VPN下载", href: "https://qingyun.filebases.com/assets/Clash.for.Windows-0.20.16.dmg" },
-    { title: "iOS VPN下载", href: "https://apps.apple.com/us/app/shadowrocket/id932747118" },
+    { title: "Windows ", href: "" },
+    { title: "Android ", href: "" },
+    { title: "Mac OS ", href: "https://qingyun.filebases.com/assets/Clash.for.Windows-0.20.16.dmg" },
+    { title: "iOS", href: "https://apps.apple.com/us/app/shadowrocket/id932747118" },
     { title: "C9高校网盘", href: "https://www.seafile.com/home" },
     { title: "广医云盘", href: "http://i.mooc.chaoxing.com/space" },
     { title: "网盘密码666666", href: "http://dyf.icu/bd/" },
@@ -134,11 +133,7 @@ friends:
     { title: "南医学习资料（可编辑）", href: "https://gzhum-my.sharepoint.com/:f:/g/personal/286846966_gzhum_onmicrosoft_com/EnHBtRXDWzxPvIewe3ZLuzABsVD4hNReR4wVM14sI4NjJw?e=1KaSa0" },
     { title: "网站盲盒（划水好东西）", href: "https://sharkle.com" },
     { title: "名字模拟器", href: "www.qmsjmfb.com" },
-    { title: "chatgpt国内访问（广告版）", href: "https://chatgpt.qdymys.cn" },
-    { title: "chatgpt1", href: "https://chat.gptchinese.com" },
-     { title: "chatgpt2", href: "https://chat1.yqcloud.top/" },
-    { title: "chatgpt3", href: "https://zcc.app/" },
-    { title: "chatgpt4", href: "https://ai.bo-e.com/" },
+
     { title: "chatgpt自建,密码666666", href: "https://chatgpt.dyf.icu" },
     { title: "chatgpt自建,密码ABC666666...", href: "http://ai.dyf.icu:3002" },
     

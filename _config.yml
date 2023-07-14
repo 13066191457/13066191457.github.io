@@ -94,7 +94,8 @@ friends:
     { title: "广医主页", href: "https://www.gzhmu.edu.cn" },
     { title: "广医校园网", href: "http://192.168.12.3" },
     
-    { title: "广医学习资料（完善中）", href: "https://gzhum-my.sharepoint.com/:f:/g/personal/286846966_gzhum_onmicrosoft_com/EvhCQVuqxaFDrOFHfvqy3bUBpAdgoi5BqRfM_ej8Tr3V9A?e=Atg6pL" },
+    { title: "广医学习资料(谷歌)", href: "https://drive.google.com/drive/folders/1-3Fw3k9H0lXBJ88169VjcP4tYTCkEoZ_?usp=drive_link" },
+    { title: "广医学习资料(微软)", href: "https://drive.google.com/drive/folders/1-3Fw3k9H0lXBJ88169VjcP4tYTCkEoZ_?usp=drive_link" },
     { title: "南方医主页", href: "https://www.smu.edu.cn" },
     { title: "IP查询", href: "https://ping.pe" },
     
@@ -128,9 +129,10 @@ friends:
     { title: "C9高校网盘", href: "https://www.seafile.com/home" },
     { title: "广医云盘", href: "http://i.mooc.chaoxing.com/space" },
     { title: "网盘密码666666", href: "http://dyf.icu/bd/" },
-    { title: "广医云盘", href: "http://i.mooc.chaoxing.com/space" },
+    
     { title: "Mircosoft会员账号（两年有效期）", href: "https://dengyufan.oss-cn-hongkong.aliyuncs.com/test202302271945285.docx" },
-    { title: "南医学习资料（可编辑）", href: "https://gzhum-my.sharepoint.com/:f:/g/personal/286846966_gzhum_onmicrosoft_com/EnHBtRXDWzxPvIewe3ZLuzABsVD4hNReR4wVM14sI4NjJw?e=1KaSa0" },
+    { title: "南医学习资料（谷歌）", href: "https://drive.google.com/drive/folders/1-0_gueFdVgGkDOrBL6YOtS_k5aRwq2wh?usp=sharing" },
+    { title: "南医学习资料（谷歌）", href: "https://drive.google.com/drive/folders/1-0_gueFdVgGkDOrBL6YOtS_k5aRwq2wh?usp=sharing" },
     { title: "网站盲盒（划水好东西）", href: "https://sharkle.com" },
     { title: "名字模拟器", href: "www.qmsjmfb.com" },
 
@@ -138,6 +140,6 @@ friends:
     { title: "chatgpt自建,密码ABC666666...", href: "http://ai.dyf.icu:3002" },
     
     { title: "New bing", href: "https://www.bing.com/" },
-    { title: "宝塔", href: "http://104.207.150.141:21583/91576e3e"},
+    { title: "宝塔", href: ""},
     
   ]

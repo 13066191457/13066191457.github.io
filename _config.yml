@@ -91,6 +91,7 @@ page-mathjax: false
 # Friends
 friends:
   [
+# 学习
     { title: "广医主页", href: "https://www.gzhmu.edu.cn" },
     { title: "广医校园网", href: "http://192.168.12.3" },
     
